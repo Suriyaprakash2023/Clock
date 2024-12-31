@@ -4,7 +4,7 @@ This is a simple digital clock built using HTML, CSS, and JavaScript. It display
 
 ## Live Demo
 You can view the live demo of the clock here:
-[Simple JavaScript Clock](#)
+[Simple JavaScript Clock](https://clock-git-main-suriyaprakash2023s-projects.vercel.app/)
 
 ## Features
 - **Real-time display**: The clock updates every second to show the current time.
@@ -22,13 +22,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-js-clock.git
+   git clone https://github.com/Suriyaprakash2023/Clock.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd simple-js-clock
+   cd Clock
    ```
 
 3. Open `index.html` in your browser.
@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 ```
-/simple-js-clock
+/Clock
 ├── index.html        # Contains the structure of the clock
 ├── style.css         # Contains the styling for the clock
 └── script.js         # JavaScript code that powers the clock
